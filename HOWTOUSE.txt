@@ -1,0 +1,5 @@
+Run "polarsniffer.exe" as Administrator
+
+If you get any issues, install Python 3.12 or greater, after installing python, run "install prerequisites.bat" as Administrator and wait for everything to install.
+
+If you still get errors, please dm 'felpaca' on Discord for further help.
